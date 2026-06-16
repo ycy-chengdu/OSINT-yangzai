@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: cz7cz.github.io/quartz
+  baseUrl: ycy-chengdu.github.io/OSINT-yangzai
   ignorePatterns:
     - private
     - templates
