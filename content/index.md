@@ -1,6 +1,37 @@
 ---
-title: Welcome to Quartz
+title: OSINT Lab
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# 🛰 OSINT Lab
+
+一个专注于 **公开情报（OSINT）整理与分析** 的知识系统。
+
+---
+
+## 🔍 内容方向
+
+- OSINT 工具与方法
+- 信息收集与验证
+- 网络信息分析
+- 案例拆解
+- 情报结构化思维
+
+---
+
+## ⚡ 这个站点的目标
+
+不是记录笔记，而是：
+
+> 把信息变成结构，把碎片变成系统。
+
+---
+
+## 🚪 开始探索
+
+👉 使用左侧 Explorer 浏览  
+👉 或查看 Graph View  
+👉 或从文章列表进入
+
+---
+
+> 信息的价值不在于数量，而在于结构。
